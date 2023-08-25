@@ -9,3 +9,5 @@ Subjects
 ### 2) 삼성전자 주가 데이터 시각화(Streamlit)
    
   ![home_2](https://github.com/Kwoo9/Pin_Sub/assets/89506035/6ad0fa52-848c-4111-856b-09d74267906d)
+
+### 3) 싸피에 대한 검색 결과 크롤링
